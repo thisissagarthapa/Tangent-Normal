@@ -3,7 +3,7 @@
 ## Overview
 
 This project involves analyzing two different curves and visualizing their properties using Matplotlib in Python. The focus is on:
-1. Finding the points where the tangent to the curve is parallel to the x-axis.
+1. Finding the points where the tangent to a curve is parallel to the x-axis.
 2. Determining the angle at which a curve intersects the x-axis.
 
 ## 1. Points Where Tangents Are Parallel to the X-Axis
